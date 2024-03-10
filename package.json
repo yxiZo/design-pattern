@@ -3,7 +3,8 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "Observer": "bun run ./Observer.ts"
+    "Observer": "bun run ./Observer.ts",
+    "PubSub": "bun run ./PubSub.ts"
   },
   "devDependencies": {
     "bun-types": "latest"
