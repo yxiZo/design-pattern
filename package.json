@@ -1,0 +1,14 @@
+{
+  "name": "design-pattern",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "Observer": "bun run ./Observer.ts"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
